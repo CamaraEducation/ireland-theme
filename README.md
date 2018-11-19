@@ -1,4 +1,3 @@
-# ireland-theme
 # How to compile sass:
 ## 1. Do some installation
 ## 1.1 sudo apt-get update

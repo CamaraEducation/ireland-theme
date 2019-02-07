@@ -772,7 +772,7 @@ body .wmd-prompt-dialog .btn-brand:focus {
 }
 
 .home > header {
-    background-image: url("#{$img-path}/background.jpg");
+    background-image: url("#{$img-path}/background.svg");
     position: relative;
     background-color: #040404;
     background-position: 50% 50%;
@@ -1989,7 +1989,7 @@ body .home>header {
         min-height: 300px;
     }
     @media screen and (min-width: 760px) {
-        min-height: 400px;
+        min-height: 500px;
     }
 }
 .home>header .title>.heading-group h1 {
